@@ -38,6 +38,22 @@ My proffesional experience is connected with telecommunication field. Experience
 
 ## Code
 
+    function duplicateCount(text){
+
+      const letterLower = text.toLowerCase();
+      const letterArr = letterLower.split('');
+      const duplSet = new Set();
+
+      letterArr.map((letter) => {
+    	  let startIndex = letterLower.indexOf(letter);
+    	  let lastIndex = letterLower.lastIndexOf(letter);
+    	  if (startIndex !== lastIndex) {
+    	    duplSet.add(letter);
+    	  }
+      });
+      return duplSet.size;
+    }
+
 ---
 
 ## Languages
