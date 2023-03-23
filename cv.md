@@ -10,8 +10,8 @@
 
 ## Summary:
 
-All my professional life I've been working in telecommunications. I possess vast experience in mobile communications, especially in circuit switched core network elements, protocols and nodes. Also have some knowledges in IP technologies and passed some cisco certification exams (CCNA/CCNP).
-Recently, I got interested in programming, especially in JavaScript and related technologies/frameworks (Nodejs, React).
+All my professional life I've been working in telecommunications. I possess vast experience in mobile communications, especially in circuit switched core network elements, protocols and nodes. Also I have some knowledges in IP technologies and passed some cisco certification exams (CCNA/CCNP).
+Recently, I've got interested in programming, especially in JavaScript and related technologies/frameworks (NodeJS, ReactJS).
 I hope to deepen my knowledges and get new experience.
 
 ---
@@ -58,5 +58,5 @@ My proffesional experience is connected with telecommunication field. Experience
 
 ## Languages
 
-- Russian is native language
+- Russian is my native language
 - English. I estimate my level as intermediate - upper-intermediate. My best result was IELTS 7.5, but it was passed several years ago.
